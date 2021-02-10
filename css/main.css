@@ -1,0 +1,13 @@
+.main-header{
+    background: url(../CSS/images/paradise.jpg);
+    min-height: 700px;
+    background-position: center;
+    background-size: cover;
+    color: white;
+}
+
+
+card image {
+    width: 150px;
+    height: auto;
+}
